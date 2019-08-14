@@ -1,0 +1,14 @@
+.single-product label.wat-label {
+  margin: 0 0 1em;
+  display: block;
+  color: #076020;
+}
+
+.single-product input#wat-accept-terms {
+  border: none;
+}
+
+.wat-paypal-iframe-disabled {
+  opacity: 0.3 !important;
+  pointer-events: none;
+}
